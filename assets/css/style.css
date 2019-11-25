@@ -34,8 +34,6 @@ img {
 
 #heading {
 	padding-top: 50px;
-/*	padding-left: 50px;
-	padding-right: 50px;*/
 	text-align: center;
 }
 
@@ -70,4 +68,9 @@ h2 {
 	padding-left: 50px;
 	padding-right: 50px;
 	font-size: 15px;
+}
+
+p {
+	padding-left: 50px;
+	padding-right:50px;
 }
